@@ -2,12 +2,12 @@ In order for Federated Learning (FL) to achieve widespread adoption, it is impor
 
 ## Survey Paple
 
-| Paper Name | Journal/Conference | Year |
+| Paper Name | Journal / Conference | Year |
 | --- | --- | --- |
 | [Towards Interpretable Federated Learning](https://arxiv.org/abs/2302.13473) | arXiv | 2023 |
 
 
 ## Technical Paper
 
-| Paper Name | Journal/Conference | Year |
+| Paper Name | Journal / Conference | Year |
 | --- | --- | --- |
