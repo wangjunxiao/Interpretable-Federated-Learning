@@ -4,7 +4,7 @@ To gain widespread acceptance, Federated Learning (FL) must balance performance,
 
 Those interested in Interpretable Federated Learning (IFL) include researchers, developers, regulatory agencies, policymakers, civil societies, and others involved in obtaining explanations related to the FL model or the FL training process.
 
-- [ ] Comprehension of the influence that a client's selection of specific data samples or features has.
+- [ ] Comprehending the impact of a client's selection of particular data samples or features.
 - [x] The rationale behind a particular prediction made by the FL model.
 
 ## Survey Paple
