@@ -3,9 +3,11 @@ In order for Federated Learning (FL) to achieve widespread adoption, it is impor
 ## Survey
 
 | Paper Name | Publications |
+| --- | ---|
 | [Towards Interpretable Federated Learning](https://arxiv.org/abs/2302.13473) | arXiv23 |
 
 
 ## Technical Papers
 
 | Paper Name | Publications |
+| --- | ---|
