@@ -1,4 +1,4 @@
-To ensure that Federated Learning (FL) gains widespread acceptance, a balance between performance, privacy-preservation, and interpretability is crucial, especially in critical fields like finance and healthcare.
+To gain widespread acceptance, Federated Learning (FL) must balance performance, privacy-preservation, and interpretability, particularly in critical fields such as finance and healthcare. As a result, there is a high demand for interpretable FL (IFL) that can address these concerns. IFL is more challenging than current interpretable methods designed for centralized machine learning, primarily due to the invisibility of local data.
 
 ## Survey Paple
 
