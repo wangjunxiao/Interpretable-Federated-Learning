@@ -1,4 +1,4 @@
-In order for Federated Learning (FL) to achieve widespread adoption, it is important to balance the need for performance, privacy-preservation and interpretability, especially in mission critical applications such as finance and healthcare. 
+To ensure that Federated Learning (FL) gains widespread acceptance, a balance between performance, privacy-preservation, and interpretability is crucial, especially in critical fields like finance and healthcare.
 
 ## Survey Paple
 
