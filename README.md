@@ -7,7 +7,7 @@ Those interested in Interpretable Federated Learning (IFL) include researchers, 
 - [x] Explaining the logic behind a specific prediction made by the FL model.
 - [ ] Comprehending the impact of a client's selection of particular data samples or features.
 
-## Survey Paple
+## Survey Paper
 
 | Paper Name | Journal / Conference | Year |
 | --- | --- | --- |
