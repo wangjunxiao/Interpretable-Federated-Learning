@@ -11,10 +11,11 @@ Those interested in Interpretable Federated Learning (IFL) include researchers, 
 
 | Paper Name | Journal / Conference | Year |
 | --- | --- | --- |
-| [Towards Interpretable Federated Learning](https://arxiv.org/abs/2302.13473) | arXiv | 2023 |
+| Towards Interpretable Federated Learning | [arXiv](https://arxiv.org/abs/2302.13473) | 2023 |
 
 
 ## Technical Paper
 
 | Paper Name | Journal / Conference | Year | Code |
 | --- | --- | --- | --- |
+| Balancing Privacy Protection and Interpretability in Federated Learning | [arXiv](https://arxiv.org/abs/2302.08044) | 2023 |  |
